@@ -1,0 +1,7 @@
+interface:
+  display_name: "CRA Monitoring Workbench"
+  short_description: "将临床监查笔记整理为行动项、访视清单和可复核的报告草稿"
+  brand_color: "#176B56"
+  default_prompt: "Use $cra-monitoring-workbench to turn my raw site-visit notes into structured actions and a review-ready monitoring draft."
+policy:
+  allow_implicit_invocation: true
